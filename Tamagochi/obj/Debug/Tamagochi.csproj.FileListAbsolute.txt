@@ -1,0 +1,7 @@
+D:\Шаг\C#\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe.config
+D:\Шаг\C#\Tamagochi\Tamagochi\bin\Debug\Tamagochi.exe
+D:\Шаг\C#\Tamagochi\Tamagochi\bin\Debug\Tamagochi.pdb
+D:\Шаг\C#\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.AssemblyReference.cache
+D:\Шаг\C#\Tamagochi\Tamagochi\obj\Debug\Tamagochi.csproj.CoreCompileInputs.cache
+D:\Шаг\C#\Tamagochi\Tamagochi\obj\Debug\Tamagochi.exe
+D:\Шаг\C#\Tamagochi\Tamagochi\obj\Debug\Tamagochi.pdb
